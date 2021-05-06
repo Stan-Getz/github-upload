@@ -32,3 +32,26 @@ body {
 .text-yellow {
   color: var(--mainYellow);
 }
+
+.btn-black {
+  background: transparent;
+  text-transform: capitalize;
+  font-size: 0.8rem !important;
+  color: var(--mainBlue);
+  border: 0.1rem solid var(--mainDark) !important;
+}
+
+.btn-black:hover {
+  background: var(--lightBlue) !important;
+}
+
+.cart-icon {
+  cursor: pointer;
+  font-size: 1.2rem;
+  color: var(--mainYellow);
+}
+
+/* .cart-icon:hover {
+  transform: translate(0, 0);
+  transition: all 0.3s linear;
+} */
