@@ -5,6 +5,7 @@
 
 ### In this project I used:
 
+#### `PayPal Express Checkout Button`
 #### `Styled Components`
 #### `Context API, incl. Context.Provider & Context.Consumer`
 #### `and other React elements`
