@@ -6,6 +6,7 @@
 ### In this project I used:
 
 #### `PayPal Express Checkout Button`
+#### `Responsive Design`
 #### `Styled Components`
 #### `Context API, incl. Context.Provider & Context.Consumer`
 #### `and other React elements`
